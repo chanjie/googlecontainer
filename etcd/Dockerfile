@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd:latest
+FROM gcr.io/google_containers/etcd:2.0.12
 MAINTAINER woshigexiaoshao@163.com
