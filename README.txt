@@ -1,0 +1,1 @@
+通过github跳转，让docker绑定github上的dockerfile帮忙创建k8s镜像，解决国内无法访问grc.io上的镜像的问题
